@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/julif/AndroidStudioProjects/MarsRealEstate/app/src/main/res/drawable/ic_broken_image.xml" value="0.1" />
+        <entry key="..\:/Users/julif/AndroidStudioProjects/MarsRealEstate/app/src/main/res/layout/fragment_detail.xml" value="0.21979166666666666" />
         <entry key="..\:/Users/julif/AndroidStudioProjects/MarsRealEstate/app/src/main/res/layout/fragment_overview.xml" value="0.21979166666666666" />
         <entry key="..\:/Users/julif/AndroidStudioProjects/MarsRealEstate/app/src/main/res/layout/grid_view_item.xml" value="0.1" />
+        <entry key="..\:/Users/julif/AndroidStudioProjects/MarsRealEstate/app/src/main/res/menu/overflow_menu.xml" value="0.23229166666666667" />
       </map>
     </option>
   </component>
